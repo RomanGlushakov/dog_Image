@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogsAppHomework</string>
+    <string name="next_picture">Next Picture</string>
+    <string name="error_network">Network Error</string>
+</resources>
